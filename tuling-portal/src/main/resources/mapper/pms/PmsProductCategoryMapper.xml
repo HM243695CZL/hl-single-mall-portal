@@ -17,10 +17,10 @@
         <result column="keywords" property="keywords" />
         <result column="description" property="description" />
     </resultMap>
-    <resultMap id="getProductWithCategoryMap" type="com.tulingxueyuan.mall.modules.pms.mapper.dto.HomeMenusDto">
+    <resultMap id="getProductWithCategoryMap" type="com.tulingxueyuan.mall.modules.pms.model.dto.HomeMenusDto">
         <result property="id" column="id"></result>
         <result property="name" column="name"></result>
-        <collection property="productList" ofType="com.tulingxueyuan.mall.modules.pms.mapper.dto.ProductDTO">
+        <collection property="productList" ofType="com.tulingxueyuan.mall.modules.pms.model.dto.ProductDTO">
             <id property="id" column="pro_id"></id>
             <result property="name" column="pro_name"></result>
             <result property="pic" column="pro_name"></result>

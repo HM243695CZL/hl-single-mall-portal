@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c242a2c-59cb-480e-8c32-5668e26a42a8" name="Default Changelist" comment="" />
+    <list default="true" id="8c242a2c-59cb-480e-8c32-5668e26a42a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsAlbumMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsAlbumPicMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsBrandMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsCommentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsCommentReplayMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsFeightTemplateMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsMemberPriceMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsProductAttributeCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsProductAttributeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsProductAttributeValueMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsProductCategoryAttributeRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsProductCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsProductFullReductionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsProductLadderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsProductOperateLogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsProductVertifyRecordMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-mpbg/src/main/resources/mapper/pms/PmsSkuStockMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/mapper/PmsProductCategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/mapper/PmsProductCategoryMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/mapper/dto/HomeMenusDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/model/dto/HomeMenusDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/mapper/dto/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/model/dto/ProductDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/service/PmsProductCategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/service/PmsProductCategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/service/impl/PmsProductCategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/tuling-portal/src/main/java/com/tulingxueyuan/mall/modules/pms/service/impl/PmsProductCategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuling-portal/src/main/resources/mapper/pms/PmsProductCategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tuling-portal/src/main/resources/mapper/pms/PmsProductCategoryMapper.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +41,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -29,17 +60,20 @@
     </option>
   </component>
   <component name="ProjectId" id="2AKc36djzvyOz7liOSHa5oKc4kN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/tuling-portal/src/main/resources" />
@@ -116,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654761514708</updated>
       <workItem from="1654761519471" duration="269000" />
-      <workItem from="1654761810704" duration="4547000" />
+      <workItem from="1654761810704" duration="6315000" />
     </task>
     <servers />
   </component>
@@ -128,58 +162,66 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="180" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1654765072430" />
-    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1654763549586">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1654767907344">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1654763549586" />
-    <state width="1877" height="227" key="GridCell.Tab.0.bottom" timestamp="1654766384286">
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1654767907344" />
+    <state x="447" y="450" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1654767571533">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1654766384286" />
-    <state width="1877" height="227" key="GridCell.Tab.0.center" timestamp="1654766384286">
+    <state x="447" y="450" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1654767571532" />
+    <state x="515" y="117" key="CommitChangelistDialog2" timestamp="1654768473929">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1654766384286" />
-    <state width="1877" height="227" key="GridCell.Tab.0.left" timestamp="1654766384286">
+    <state x="515" y="117" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1654768473929" />
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom" timestamp="1654768217396">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1654766384286" />
-    <state width="1877" height="227" key="GridCell.Tab.0.right" timestamp="1654766384286">
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217396" />
+    <state width="1877" height="227" key="GridCell.Tab.0.center" timestamp="1654768217396">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1654766384286" />
-    <state width="1877" height="227" key="GridCell.Tab.1.bottom" timestamp="1654766383357">
+    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217396" />
+    <state width="1877" height="227" key="GridCell.Tab.0.left" timestamp="1654768217395">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1654766383357" />
-    <state width="1877" height="227" key="GridCell.Tab.1.center" timestamp="1654766383357">
+    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217395" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right" timestamp="1654768217396">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1654766383357" />
-    <state width="1877" height="227" key="GridCell.Tab.1.left" timestamp="1654766383357">
+    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217396" />
+    <state width="1877" height="227" key="GridCell.Tab.1.bottom" timestamp="1654768217216">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1654766383357" />
-    <state width="1877" height="227" key="GridCell.Tab.1.right" timestamp="1654766383357">
+    <state width="1877" height="227" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217216" />
+    <state width="1877" height="227" key="GridCell.Tab.1.center" timestamp="1654768217216">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1654766383357" />
-    <state width="1877" height="227" key="GridCell.Tab.2.bottom" timestamp="1654766383357">
+    <state width="1877" height="227" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217216" />
+    <state width="1877" height="227" key="GridCell.Tab.1.left" timestamp="1654768217216">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1654766383357" />
-    <state width="1877" height="227" key="GridCell.Tab.2.center" timestamp="1654766383357">
+    <state width="1877" height="227" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217216" />
+    <state width="1877" height="227" key="GridCell.Tab.1.right" timestamp="1654768217216">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1654766383357" />
-    <state width="1877" height="227" key="GridCell.Tab.2.left" timestamp="1654766383357">
+    <state width="1877" height="227" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217216" />
+    <state width="1877" height="227" key="GridCell.Tab.2.bottom" timestamp="1654768217216">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1654766383357" />
-    <state width="1877" height="227" key="GridCell.Tab.2.right" timestamp="1654766383357">
+    <state width="1877" height="227" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217216" />
+    <state width="1877" height="227" key="GridCell.Tab.2.center" timestamp="1654768217216">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="227" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1654766383357" />
+    <state width="1877" height="227" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217216" />
+    <state width="1877" height="227" key="GridCell.Tab.2.left" timestamp="1654768217216">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="227" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217216" />
+    <state width="1877" height="227" key="GridCell.Tab.2.right" timestamp="1654768217216">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="227" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1654768217216" />
     <state x="461" y="167" key="SettingsEditor" timestamp="1654761536360">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

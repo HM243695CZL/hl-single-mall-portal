@@ -1,6 +1,6 @@
 package com.tulingxueyuan.mall.modules.pms.service.impl;
 
-import com.tulingxueyuan.mall.modules.pms.mapper.dto.HomeMenusDto;
+import com.tulingxueyuan.mall.modules.pms.model.dto.HomeMenusDto;
 import com.tulingxueyuan.mall.modules.pms.model.PmsProductCategory;
 import com.tulingxueyuan.mall.modules.pms.mapper.PmsProductCategoryMapper;
 import com.tulingxueyuan.mall.modules.pms.service.PmsProductCategoryService;

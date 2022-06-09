@@ -2,8 +2,11 @@ package com.tulingxueyuan.mall.modules.pms.controller;
 
 
 import com.tulingxueyuan.mall.common.api.CommonResult;
-import com.tulingxueyuan.mall.modules.pms.mapper.dto.HomeMenusDto;
+import com.tulingxueyuan.mall.modules.pms.model.dto.HomeMenusBannerDto;
+import com.tulingxueyuan.mall.modules.pms.model.dto.HomeMenusDto;
 import com.tulingxueyuan.mall.modules.pms.service.PmsProductCategoryService;
+import com.tulingxueyuan.mall.modules.sms.model.SmsHomeAdvertise;
+import com.tulingxueyuan.mall.modules.sms.service.SmsHomeAdvertiseService;
 import io.swagger.annotations.Api;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -20,12 +23,22 @@ public class HomeController {
     @Autowired
     PmsProductCategoryService productCategoryService;
 
+    @Autowired
+    SmsHomeAdvertiseService homeAdvertiseService;
+
     /**
      * 获取首页类型导航栏
      */
     @RequestMapping(value = "/menus_banner", method = RequestMethod.GET)
     public CommonResult getMenus() {
+        // 分类导航
         List<HomeMenusDto> list = productCategoryService.getMenu();
-        return CommonResult.success(list);
+        // banner
+        List<SmsHomeAdvertise> homeAdvertisesList = homeAdvertiseService.getBannerList();
+        HomeMenusBannerDto homeMenusBannerDto = new HomeMenusBannerDto();
+        homeMenusBannerDto.setHomeMenusList(list);
+        homeMenusBannerDto.setHomeAdvertisesList(homeAdvertisesList);
+        return CommonResult.success(homeMenusBannerDto);
     }
+
 }
