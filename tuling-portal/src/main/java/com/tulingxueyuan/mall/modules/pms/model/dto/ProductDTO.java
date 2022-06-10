@@ -15,10 +15,10 @@ public class ProductDTO {
     private Long id;
     private String name;
     private String pic;
+    private BigDecimal price;
     @ApiModelProperty(value = "促销价格")
-    private BigDecimal promotionPrice;
-    @ApiModelProperty(value = "市场价")
     private BigDecimal originalPrice;
     @ApiModelProperty(value = "副标题")
     private String subTitle;
+    private Integer sub;
 }
